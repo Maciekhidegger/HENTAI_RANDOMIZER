@@ -3,7 +3,7 @@
 #include <ctime>
 
 using namespace std;
-// RANDOM_HENTAI by SecretumAnglicum
+// RANDOM_HENTAI by Maciekhidegger 
 
 int main() { 
 
